@@ -1,6 +1,6 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Front con React para API REST Polizas de Seguros --- Bootcamp BBVA</h1></summary>
+    <summary><h1 style="display: inline-block">Front con React para API REST Pólizas de Seguros --- Bootcamp BBVA</h1></summary>
   </ul>
 </div>
 
